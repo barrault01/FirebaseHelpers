@@ -21,11 +21,11 @@
       },
       {
         "package": "Auth",
-        "repositoryURL": "https://github.com/googleapis/google-auth-library-swift.git",
+        "repositoryURL": "https://github.com/barrault01/google-auth-library-swift.git",
         "state": {
           "branch": null,
-          "revision": "f7371c8b4f3ce41a1b63b87c6fb04c53db850484",
-          "version": null
+          "revision": "1bed5380268e3aa44337744e42ae1878604e9a89",
+          "version": "0.5.1"
         }
       },
       {

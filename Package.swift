@@ -12,7 +12,7 @@ let package = Package(
             targets: ["FirebaseHelpers"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/googleapis/google-auth-library-swift.git", .revision("f7371c8b4f3ce41a1b63b87c6fb04c53db850484"))
+        .package(url: "https://github.com/barrault01/google-auth-library-swift.git", from: "0.5.1")
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
