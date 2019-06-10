@@ -1,3 +1,7 @@
 # FirebaseHelpers
 
-A description of this package.
+A swift Framework to help send push using firebase.
+
+
+- Token requester
+- Send push api
