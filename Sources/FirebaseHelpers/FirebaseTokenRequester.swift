@@ -16,7 +16,7 @@ let scopes = ["https://www.googleapis.com/auth/firebase.remoteconfig",
 public struct FirebaseTokenRequester {
 
     var ressourceName: String
-    init(for ressourceName: String) {
+    public init(for ressourceName: String) {
         self.ressourceName = ressourceName
     }
 
