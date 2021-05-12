@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/krzyzanowskim/CryptoSwift.git",
         "state": {
           "branch": null,
-          "revision": "3a2acbb32ab68215ee1596ee6004da8e90c3721b",
-          "version": "1.0.0"
+          "revision": "4e31051c63cc0ddf10a25cf5318856c510cf77f4",
+          "version": "1.4.0"
         }
       },
       {
@@ -24,8 +24,8 @@
         "repositoryURL": "https://github.com/barrault01/google-auth-library-swift.git",
         "state": {
           "branch": null,
-          "revision": "1bed5380268e3aa44337744e42ae1878604e9a89",
-          "version": "0.5.1"
+          "revision": "077bf9b1f65311fbc6be34e8ba8b34ae0f8403b5",
+          "version": "0.5.2"
         }
       },
       {
@@ -33,8 +33,8 @@
         "repositoryURL": "https://github.com/apple/swift-nio.git",
         "state": {
           "branch": null,
-          "revision": "ed50f8a41ece8db20afa8d1188fc0960f95263df",
-          "version": "2.2.0"
+          "revision": "d161bf658780b209c185994528e7e24376cf7283",
+          "version": "2.29.0"
         }
       }
     ]
